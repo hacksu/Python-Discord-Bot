@@ -1,4 +1,4 @@
-# HacKSU_Discord_Bot
+# Python-Discord-Bot
 *Written by Joshua Behler*
 ## Intro
 Discord, for those who are unfamilar, is a free text and voice chatting platform. You will need a Discord account in order to make and interact with a bot. You can create an account free at their [website](https://discord.com). You can either use Discord through the Desktop Application or through the browser. Additionally, you will need Python 3.8 installed. You can download Python from [here](https://python.org).
